@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "8a25016e2585b667",
+    "type": "split",
+    "children": [
+      {
+        "id": "69fc7d58e88d85ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f24cc61970c87b2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95c70d3a4d5a948d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7aed37b352535127",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17a3386941e19a0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5f88606f0d99932",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5ba102556a3c638",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223.5
+  },
+  "right": {
+    "id": "7695df4a9a4a3902",
+    "type": "split",
+    "children": [
+      {
+        "id": "b554dd0e19fde17c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf78d896289b5d17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab6e9fdb803d9c36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "768be9d9db311b11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ae7759c6aadcafec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4f24cc61970c87b2",
+  "lastOpenFiles": [
+    "content/post/why-windows.md",
+    "content/post/typing.md",
+    "content/post/theories-on-reality.md",
+    "content/post/tech-stack.md",
+    "content/post/taste-in-comedy.md",
+    "content/post/quitting-meat.md",
+    "content/post/purpose.md",
+    "content/post/pillars-of-success.md",
+    "content/post/Interests in 2023.md",
+    "content/post/path-of-moderation.md",
+    "content/post/fast-charging.md",
+    "content/post/cool-quotes.md",
+    "content/post/consumerism.md",
+    "content/post/browsers.md",
+    "content/post/best-friend.md",
+    "content/post/article-ideas.md",
+    "content/post/about-myself.md"
+  ]
+}

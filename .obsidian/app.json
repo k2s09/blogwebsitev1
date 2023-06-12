@@ -1,0 +1,17 @@
+{
+  "spellcheckLanguages": [
+    "en-US",
+    "en-GB"
+  ],
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content/post",
+  "attachmentFolderPath": "static/images",
+  "userIgnoreFilters": [
+    "assets/",
+    "layouts/",
+    "config/",
+    "resources/"
+  ]
+}
