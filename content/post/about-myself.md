@@ -4,6 +4,7 @@ date: 2023-01-01
 hero: /images/about.webp
 excerpt: A bit more about myself.
 timeToRead: 2
+tags: ['Personal']
 authors:
   - Kavin Sood
 ---

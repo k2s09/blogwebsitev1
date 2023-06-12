@@ -4,7 +4,7 @@ date: 2022-08-04
 hero: /images/comedy.webp
 excerpt: The best comedy is the one that leaves you in stiches.
 timeToRead: 2
-tags: ['Opinions']
+tags: ['Personal']
 authors:
   - Kavin Sood
 ---

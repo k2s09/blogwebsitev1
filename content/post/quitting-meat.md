@@ -4,7 +4,7 @@ date: 2022-10-03
 hero: /images/snap1011.webp
 excerpt: In this article, I debate the antics of quitting meat. 
 timeToRead: 6
-tags: ['Science', 'Opinions']
+tags: ['Science']
 authors:
   - Kavin Sood
 ---

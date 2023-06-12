@@ -4,7 +4,7 @@ date: 2023-04-24
 hero: /images/thinking.jpg
 excerpt: What does this blog aim to accomplish?
 timeToRead: 2
-tags: ['Philosophy']
+tags: ['Personal']
 authors:
   - Kavin Sood
 ---

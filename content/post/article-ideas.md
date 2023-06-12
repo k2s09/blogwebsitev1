@@ -4,6 +4,7 @@ date: 2022-12-17
 hero: /images/ideasbulb.webp
 excerpt: Upcoming article pieces and you can look for in the future!
 timeToRead: 2
+tags: ['Personal']
 authors:
   - Kavin Sood
 ---

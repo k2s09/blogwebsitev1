@@ -4,7 +4,7 @@ date: 2023-04-25
 hero: /images/academia.jpg
 excerpt: What I've been upto in 2023.
 timeToRead: 6
-tags: ['Opinions', 'Tech', 'Philosophy']
+tags: ['Tech', 'Philosophy']
 authors:
   - Kavin Sood
 ---

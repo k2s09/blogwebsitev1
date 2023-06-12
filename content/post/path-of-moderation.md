@@ -4,6 +4,7 @@ date: 2022-11-02
 hero: /images/120.webp
 excerpt: The Path of Moderation is my biggest life philosophy. It is a way of living life. 
 timeToRead: 13
+tags: ['Philosophy']
 authors:
   - Kavin Sood
 ---

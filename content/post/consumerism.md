@@ -4,7 +4,7 @@ date: 2022-10-18
 hero: /images/consumer.webp
 excerpt: You should not give into the trap of consumerism.
 timeToRead: 4
-tags: ['Philosophy']
+tags: ['Philosophy', 'Self-Help']
 authors:
   - Kavin Sood
 ---

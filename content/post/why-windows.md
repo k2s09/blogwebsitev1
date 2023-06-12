@@ -4,7 +4,7 @@ date: 2022-12-02
 hero: /images/llugk8ad1ezx7ju4dq2p.webp
 excerpt: Why do I use Windows personally after being a Linux user for years? Perhaps, the grass isn't greener on the other side.
 timeToRead: 11
-tags: ['Tech', 'Opinions']
+tags: ['Tech']
 authors:
   - Kavin Sood
 ---
