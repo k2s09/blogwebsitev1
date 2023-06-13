@@ -32,11 +32,3 @@ I'm excited to develop interesting ideas further, learn about them myself, and s
 * The Sheer Efficiency of Modern Computers
 * Pens - The Power of the Written Word (Exploring my traditional and classy side who loves lexicography and writing)
 * Experiences being an Executive in Technology
-
-## TBD
-- [ ] Make the main heading scrolling
-- [ ] Revamp article image banner - make full size, add small description text
-- [ ] Add headings to the article scroll bar
-- [x] Article tags with ability to sort
-- [ ] Two-Toned / Dynamic Background
-- [ ] Play around with fonts (Inter)

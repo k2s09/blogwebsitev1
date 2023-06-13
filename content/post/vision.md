@@ -18,3 +18,9 @@ My process of writing involves deep thinking and exploration of topics to gain a
 Strong conclusions that align with my principles form the basis for my decision-making, actions, and way of life. I update my beliefs from time-to-time to ensure they remain relevant and aligned with my evolving understanding of reality.
 
 I do this a lot. I hardly publish everything that I write.
+
+## TBD
+- [ ] Make the main heading scrolling
+- [ ] Revamp article image banner - make full size, add small description text
+- [ ] Add headings to the article scroll bar
+- [ ] Two-Toned / Dynamic Background
