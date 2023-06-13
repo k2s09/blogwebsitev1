@@ -21,6 +21,8 @@ When it comes to intellectual curiosity, the process of accumulating knowledge i
 
 Enjoy the joy of exploring all the knowledge ever gained by other intelligent beings in present and history of civilization.
 
+![](images/physics.jpg)
+
 > _“There are epistemic limitations to our understanding of reality”_
 
 The rational, objective, and pragmatic part of our minds may believe reality is deterministic. This tells us that we are accountable for our actions, and it is healthy. However, believing that we can fully comprehend and predict all causal-deterministic relations in such a system is a fallacy that ignores the limits of our knowledge, and the notion of such super-determinism is flawed.

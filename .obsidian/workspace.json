@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "69fc7d58e88d85ba",
+        "id": "d3bdce564e57c4ba",
         "type": "tabs",
         "children": [
           {
-            "id": "4f24cc61970c87b2",
+            "id": "6e207e8cb434c61b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,11 +138,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f24cc61970c87b2",
+  "active": "6e207e8cb434c61b",
   "lastOpenFiles": [
+    "content/post/theories-on-reality.md",
+    "content/post/consumerism.md",
+    "static/images/physics.jpg",
+    "static/physics.jpg",
+    "static/images/Windows.webp",
+    "static/images/thinking.jpg",
+    "static/images/snap1011.webp",
+    "static/images/pillars.webp",
+    "static/images/me.png",
+    "static/images/mach-waves.webp",
+    "static/images/llugk8ad1ezx7ju4dq2p.webp",
+    "static/images/keyboardtyping.webp",
     "content/post/why-windows.md",
     "content/post/typing.md",
-    "content/post/theories-on-reality.md",
     "content/post/tech-stack.md",
     "content/post/taste-in-comedy.md",
     "content/post/quitting-meat.md",
@@ -152,7 +163,6 @@
     "content/post/path-of-moderation.md",
     "content/post/fast-charging.md",
     "content/post/cool-quotes.md",
-    "content/post/consumerism.md",
     "content/post/browsers.md",
     "content/post/best-friend.md",
     "content/post/article-ideas.md",
