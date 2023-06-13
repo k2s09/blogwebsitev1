@@ -20,6 +20,7 @@ Strong conclusions that align with my principles form the basis for my decision-
 I do this a lot. I hardly publish everything that I write.
 
 ## TBD
+- [x] Add tags and the ability to sort articles based on tags
 - [ ] Make the main heading scrolling
 - [ ] Revamp article image banner - make full size, add small description text
 - [ ] Add headings to the article scroll bar
