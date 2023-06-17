@@ -21,7 +21,7 @@ When it comes to intellectual curiosity, the process of accumulating knowledge i
 
 Enjoy the joy of exploring all the knowledge ever gained by other intelligent beings in present and history of civilization.
 
-![](images/physics.jpg)
+![](/images/physics.jpg)
 
 > _“There are epistemic limitations to our understanding of reality”_
 

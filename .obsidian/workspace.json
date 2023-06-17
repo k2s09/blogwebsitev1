@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d3bdce564e57c4ba",
+        "id": "2d5a2d3363a16eb6",
         "type": "tabs",
         "children": [
           {
-            "id": "6e207e8cb434c61b",
+            "id": "17e73b48fcd0f4b9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 200
   },
   "right": {
     "id": "7695df4a9a4a3902",
@@ -138,11 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e207e8cb434c61b",
+  "active": "17a3386941e19a0f",
   "lastOpenFiles": [
     "content/post/theories-on-reality.md",
+    "content/post/typing.md",
+    "content/post/vision.md",
     "content/post/consumerism.md",
-    "static/images/physics.jpg",
+    "images/physics.jpg",
     "static/physics.jpg",
     "static/images/Windows.webp",
     "static/images/thinking.jpg",
@@ -153,7 +155,6 @@
     "static/images/llugk8ad1ezx7ju4dq2p.webp",
     "static/images/keyboardtyping.webp",
     "content/post/why-windows.md",
-    "content/post/typing.md",
     "content/post/tech-stack.md",
     "content/post/taste-in-comedy.md",
     "content/post/quitting-meat.md",
