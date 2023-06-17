@@ -11,8 +11,12 @@
             "id": "17e73b48fcd0f4b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/post/theories-on-reality.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/post/theories-on-reality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/post/theories-on-reality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/post/theories-on-reality.md"
+              }
             }
           }
         ]
@@ -138,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17a3386941e19a0f",
+  "active": "17e73b48fcd0f4b9",
   "lastOpenFiles": [
+    "README.md",
+    "static/images/physics.jpg",
     "content/post/theories-on-reality.md",
     "content/post/typing.md",
     "content/post/vision.md",
@@ -153,7 +163,6 @@
     "static/images/me.png",
     "static/images/mach-waves.webp",
     "static/images/llugk8ad1ezx7ju4dq2p.webp",
-    "static/images/keyboardtyping.webp",
     "content/post/why-windows.md",
     "content/post/tech-stack.md",
     "content/post/taste-in-comedy.md",
