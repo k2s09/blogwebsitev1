@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2d5a2d3363a16eb6",
+        "id": "ec30043185cfabef",
         "type": "tabs",
         "children": [
           {
-            "id": "17e73b48fcd0f4b9",
+            "id": "315651678f84ec9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/theories-on-reality.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/theories-on-reality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/theories-on-reality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/post/theories-on-reality.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17e73b48fcd0f4b9",
+  "active": "315651678f84ec9b",
   "lastOpenFiles": [
+    "content/post/theories-on-reality.md",
     "README.md",
     "static/images/physics.jpg",
-    "content/post/theories-on-reality.md",
     "content/post/typing.md",
     "content/post/vision.md",
     "content/post/consumerism.md",

@@ -21,8 +21,6 @@ When it comes to intellectual curiosity, the process of accumulating knowledge i
 
 Enjoy the joy of exploring all the knowledge ever gained by other intelligent beings in present and history of civilization.
 
-<img src="[p.jpeg (6000×4000) (dropboxusercontent.com)](https://uc1735d2b3640daa7ae33214fc92.previews.dropboxusercontent.com/p/thumb/AB7uOOb_1QlS6KlCNdk46mVhpTgjL5kD9Q254jnHhFIHeZJPoh0ki5uO8D98YN271FCx-hAqYWeSg8LnwSW-GB9h24ycKGSiuOWkH9oiOVYWGTxdqY9_H6OHy07Wycp85SO8V20D4wmC7rTLx0xjzufdLPIVPrZQaauWSg44e-QNtbk9OdQdOvSQNoZ5SDMIkVFZ1KAmBVRBJGJ0eRB-tqsUkoMvPQWXDNaHNKrzau7jNvK5Wf3UappGD-xuDZ5U_owuwNSKrLrrKTH_gxGWWdgz0yv6R2Pr4xJJ-NfyI_ZTTdBSd27GQRXOZkNLRowHJaLHBVYqUSO1Ehrvqypyib1-eobZPpSbkkkdiCncgXGmhZ7f4tO9ju3Q3hhHpsOrNaX_YK9sByi1-Fq827_vCaj-wIT4ZyyB6WwND7ev1NwkLQ/p.jpeg)" alt="classical formulae">
-
 > _“There are epistemic limitations to our understanding of reality”_
 
 The rational, objective, and pragmatic part of our minds may believe reality is deterministic. This tells us that we are accountable for our actions, and it is healthy. However, believing that we can fully comprehend and predict all causal-deterministic relations in such a system is a fallacy that ignores the limits of our knowledge, and the notion of such super-determinism is flawed.
