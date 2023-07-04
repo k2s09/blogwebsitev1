@@ -21,6 +21,7 @@ I am excited to develop interesting ideas further, learn about them myself and s
 - These deliberations are also my efforts to craft a CS & Math Engineering Note Taking System for College
 - I recognise the most popular and upcoming apps and which ones shine in certain use-cases.
 - This essay is *long* and supposed to be one of my best pieces yet.
+
 2. *The Axiomatic Argument:* A Logical Tool for Evaluating Beliefs & Finding Meaning in Life
 * Another one of my dabbles in the fields of Rationality, Humanism, Cognitive Psychology, Philosophy 
 * The article starts off with great pragmatic interest: Introducing axiomatic arguments and using them to assess and develop our worldviews 
@@ -28,7 +29,7 @@ I am excited to develop interesting ideas further, learn about them myself and s
 
 ## On the back burner
 ### Personal
-* Experiences being an Executive in Technology
+* Experiences being an Executive in Technology (Founding a Tech Symposium)
 * My Choices in Gaming
 * My Choices in Music
 * Pens (Apart from modern advancements, I also like traditional and classy things)
