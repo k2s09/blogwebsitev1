@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c67ce01792d3e416",
+        "id": "bfae3698df76a52c",
         "type": "tabs",
         "children": [
           {
-            "id": "ff42ec7263e917b8",
+            "id": "023f53e6a8d77870",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -141,18 +141,23 @@
   },
   "active": "17a3386941e19a0f",
   "lastOpenFiles": [
-    "static/images/ideasbulb.webp",
+    "content/post/article-ideas.md",
+    "content/post/quitting-meat.md",
+    "content/post/Interests in 2023.md",
+    "content/post/fast-charging.md",
+    "content/post/cool-quotes.md",
     "content/post/content.md",
+    "content/post/browsers.md",
+    "content/post/about-myself.md",
+    "content/post/best-friend.md",
+    "static/images/ideasbulb.webp",
     "static/images/bookshelf.webp",
     "content/post/consumerism.md",
-    "content/post/article-ideas.md",
     "Untitled.canvas",
     "content/post/pillars-of-success.md",
-    "content/post/best-friend.md",
     "content/post/path-of-moderation.md",
     "MUN coaching classes with Dvit.md",
     "content/post/Media.md",
-    "content/post/about-myself.md",
     "content/post/theories-on-reality.md",
     "README.md",
     "static/images/physics.jpg",
@@ -165,15 +170,9 @@
     "static/images/snap1011.webp",
     "static/images/pillars.webp",
     "static/images/me.png",
-    "static/images/mach-waves.webp",
     "content/post/why-windows.md",
     "content/post/tech-stack.md",
     "content/post/taste-in-comedy.md",
-    "content/post/quitting-meat.md",
-    "content/post/purpose.md",
-    "content/post/Interests in 2023.md",
-    "content/post/fast-charging.md",
-    "content/post/cool-quotes.md",
-    "content/post/browsers.md"
+    "content/post/purpose.md"
   ]
 }

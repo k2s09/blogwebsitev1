@@ -17,7 +17,7 @@ I am excited to develop interesting ideas further, learn about them myself and s
 
 ## I'm working on it
 1. *Tools for Thought:* Intelligent Note Taking at the Speed of Articulation
-- A discussion of the various 'tools for thought' apps, used for things like note-taking, personal knowledge management (PKM), graphed bidirectional idea linking, zettel, etc.
+- A discussion of the various 'tools for thought' apps, used for things like note-taking, personal knowledge management (PKM), graphed bidirectional idea linking, zetteltasken, etc.
 - These deliberations are also my efforts to craft a CS & Math Engineering Note Taking System for College
 - I recognise the most popular and upcoming apps and which ones shine in certain use-cases.
 - This essay is *long* and supposed to be one of my best pieces yet.
