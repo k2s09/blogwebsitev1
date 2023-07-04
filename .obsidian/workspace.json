@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "abc45616567d7baf",
+        "id": "c67ce01792d3e416",
         "type": "tabs",
         "children": [
           {
-            "id": "7e47da1fa0147216",
+            "id": "ff42ec7263e917b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/article-ideas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/article-ideas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/article-ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/post/article-ideas.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,13 +139,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e47da1fa0147216",
+  "active": "ff42ec7263e917b8",
   "lastOpenFiles": [
+    "content/post/content.md",
+    "static/images/bookshelf.webp",
+    "content/post/consumerism.md",
+    "content/post/article-ideas.md",
     "Untitled.canvas",
     "content/post/pillars-of-success.md",
-    "content/post/consumerism.md",
     "content/post/best-friend.md",
-    "content/post/article-ideas.md",
     "content/post/path-of-moderation.md",
     "MUN coaching classes with Dvit.md",
     "content/post/Media.md",
@@ -171,7 +165,6 @@
     "static/images/pillars.webp",
     "static/images/me.png",
     "static/images/mach-waves.webp",
-    "static/images/llugk8ad1ezx7ju4dq2p.webp",
     "content/post/why-windows.md",
     "content/post/tech-stack.md",
     "content/post/taste-in-comedy.md",
