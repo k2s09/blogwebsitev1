@@ -11,8 +11,12 @@
             "id": "023f53e6a8d77870",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/post/content.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/post/content.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/post/content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/post/content.md"
+              }
             }
           }
         ],
@@ -139,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17a3386941e19a0f",
+  "active": "023f53e6a8d77870",
   "lastOpenFiles": [
+    "layouts/shortcodes/iframe.html",
     "content/post/article-ideas.md",
     "content/post/quitting-meat.md",
     "content/post/Interests in 2023.md",
