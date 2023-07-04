@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ec30043185cfabef",
+        "id": "abc45616567d7baf",
         "type": "tabs",
         "children": [
           {
-            "id": "315651678f84ec9b",
+            "id": "7e47da1fa0147216",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/post/article-ideas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 237.5
   },
   "right": {
     "id": "7695df4a9a4a3902",
@@ -81,7 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "content/post/article-ideas.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/post/article-ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,18 +120,21 @@
             }
           },
           {
-            "id": "ae7759c6aadcafec",
+            "id": "a12926dd9807817c",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/post/article-ideas.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 280.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -138,14 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "315651678f84ec9b",
+  "active": "7e47da1fa0147216",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "content/post/pillars-of-success.md",
+    "content/post/consumerism.md",
+    "content/post/best-friend.md",
+    "content/post/article-ideas.md",
+    "content/post/path-of-moderation.md",
+    "MUN coaching classes with Dvit.md",
+    "content/post/Media.md",
+    "content/post/about-myself.md",
     "content/post/theories-on-reality.md",
     "README.md",
     "static/images/physics.jpg",
     "content/post/typing.md",
     "content/post/vision.md",
-    "content/post/consumerism.md",
     "images/physics.jpg",
     "static/physics.jpg",
     "static/images/Windows.webp",
@@ -160,14 +177,9 @@
     "content/post/taste-in-comedy.md",
     "content/post/quitting-meat.md",
     "content/post/purpose.md",
-    "content/post/pillars-of-success.md",
     "content/post/Interests in 2023.md",
-    "content/post/path-of-moderation.md",
     "content/post/fast-charging.md",
     "content/post/cool-quotes.md",
-    "content/post/browsers.md",
-    "content/post/best-friend.md",
-    "content/post/article-ideas.md",
-    "content/post/about-myself.md"
+    "content/post/browsers.md"
   ]
 }

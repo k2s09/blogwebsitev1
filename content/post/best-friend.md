@@ -4,7 +4,7 @@ date: 2022-07-20
 hero: /images/Be-your-own-best-friend.webp
 excerpt: A wholesome essay on building confidence.
 timeToRead: 8
-tags: ['Self-Help']
+tags: ['Self Improvement']
 authors:
   - Kavin Sood
 ---

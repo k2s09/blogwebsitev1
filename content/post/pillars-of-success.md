@@ -4,7 +4,7 @@ date: 2022-07-13
 hero: /images/pillars.webp
 excerpt: Are you tired with self help media? Read this!
 timeToRead: 3
-tags: ['Self-Help']
+tags: ['Self Improvement']
 authors:
   - Kavin Sood
 ---
