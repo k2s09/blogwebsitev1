@@ -9,4 +9,6 @@ authors:
   - Kavin Sood
 ---
 
-{{< myiframe https://v2-embednotion.com/6537ca323cb14a65a74afba8f539e12e?v=7b8515ab107a4eac8172c4b7b800ec08&pvs=4 >}}
+{{< rawhtml >}}
+<iframe src="https://v2-embednotion.com/6537ca323cb14a65a74afba8f539e12e?v=7b8515ab107a4eac8172c4b7b800ec08&pvs=4"></iframe>  <style>  iframe { width: 100%; height: 500px; border: 2px solid #ccc; border-radius: 10px; padding: none; }  </style>
+{{< /rawhtml >}}
