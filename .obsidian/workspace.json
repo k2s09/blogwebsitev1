@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/content.md",
+                "file": "content/post/why-windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/content.md",
+                "file": "content/post/why-windows.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/content.md",
+                "file": "content/post/why-windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/content.md"
+                "file": "content/post/why-windows.md"
               }
             }
           }
@@ -149,13 +149,15 @@
   },
   "active": "023f53e6a8d77870",
   "lastOpenFiles": [
+    "content/post/theories-on-reality.md",
+    "content/post/pillars-of-success.md",
+    "content/post/content.md",
     "layouts/shortcodes/iframe.html",
     "content/post/article-ideas.md",
     "content/post/quitting-meat.md",
     "content/post/Interests in 2023.md",
     "content/post/fast-charging.md",
     "content/post/cool-quotes.md",
-    "content/post/content.md",
     "content/post/browsers.md",
     "content/post/about-myself.md",
     "content/post/best-friend.md",
@@ -163,11 +165,9 @@
     "static/images/bookshelf.webp",
     "content/post/consumerism.md",
     "Untitled.canvas",
-    "content/post/pillars-of-success.md",
     "content/post/path-of-moderation.md",
     "MUN coaching classes with Dvit.md",
     "content/post/Media.md",
-    "content/post/theories-on-reality.md",
     "README.md",
     "static/images/physics.jpg",
     "content/post/typing.md",

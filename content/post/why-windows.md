@@ -60,7 +60,7 @@ It doesn’t affect my conscience using Windows. I thought about it, and I don't
 ## The Thesis
 In this essay, I have compared Windows and Linux as operating systems for power users on many grounds like performance, appearance and installation. I have shown why someone with an appreciation for Linux would use Windows as their main system and how users looking to get the most out of their OS might find Windows better.
 
-I have discussed the advantage and disadvantages of both systems in terms of compatibility, usability, and market share. I have also explained how choosing one system over another depends on personal preference, workflow, and goals.
+I have discussed the advantage and disadvantages of both systems in terms of compatibility, usability, and market share. I have also explained how choosing one system over another depends on personal preference, workflow, and goals..
 
 ## My Opinion on Other Views
 Reading other takes for this debate online, I often disagree with arguments blaming the Linux community or developers for its flaws. I think this approach is unfair and misleading.
