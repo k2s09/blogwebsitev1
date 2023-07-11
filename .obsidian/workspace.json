@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1328e2a134823447",
+        "id": "8c918967cdabab0d",
         "type": "tabs",
         "children": [
           {
-            "id": "f398e9b5c0fedf38",
+            "id": "5aff2c8ea36b8293",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/Interests in 2023.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/Interests in 2023.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/Interests in 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/post/Interests in 2023.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f398e9b5c0fedf38",
+  "active": "5aff2c8ea36b8293",
   "lastOpenFiles": [
+    "content/post/about-myself.md",
+    "content/post/Interests in 2023.md",
     "content/post/cool-quotes.md",
     "College Planning.md",
     "content/post/theories-on-reality.md",
@@ -156,10 +150,8 @@
     "layouts/shortcodes/iframe.html",
     "content/post/article-ideas.md",
     "content/post/quitting-meat.md",
-    "content/post/Interests in 2023.md",
     "content/post/fast-charging.md",
     "content/post/browsers.md",
-    "content/post/about-myself.md",
     "content/post/best-friend.md",
     "static/images/ideasbulb.webp",
     "static/images/bookshelf.webp",
