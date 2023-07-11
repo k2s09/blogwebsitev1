@@ -24,7 +24,7 @@ I am excited to develop interesting ideas further, learn about them myself and s
 
 2. *The Axiomatic Argument:* A Logical Tool for Evaluating Beliefs & Finding Meaning in Life
 * Another one of my dabbles in the fields of Rationality, Humanism, Cognitive Psychology, Philosophy 
-* The article starts off with great pragmatic interest: Introducing axiomatic arguments and using them to assess and develop our worldviews 
+* The article starts off with great pragmatic interest: Introducing axiomatic arguments and using them to assess and develop our worldviews.
 * It then proceeds to discuss some of the philosophical challenges and opportunities that arise from moving away from religion as a source of meaning and morality, and how we can use reason to develop alternative frameworks that can inspire us to live well and flourish.
 
 ## On the back burner
@@ -33,8 +33,6 @@ I am excited to develop interesting ideas further, learn about them myself and s
 * My Choices in Gaming
 * My Choices in Music
 * Pens (Apart from modern advancements, I also like traditional and classy things)
-### Philosophy
-* The Endgame: Happiness
 ### Science
 * Breakthroughs in Renewable Energy [(Read here)](https://www.technologyreview.com/topic/climate-change/clean-energy/)
 * Pseudoscience & Exploring what truly is Science
@@ -48,3 +46,11 @@ I am excited to develop interesting ideas further, learn about them myself and s
 * Learnings in Web Development (Some revelations by me in this field)
 * The Sheer Efficiency of Modern Computers
 * Experiences being an Executive in Technology
+
+## Website features in the making
+- [x] Add tags to articles and add the ability to filter by tags
+- [ ] Making the hero heading of the homepage vertical scrolling with text
+- [ ] Revamp article image banner - make full size, add a small description text
+- [ ] Add the article's outline headings on the scrollbar
+- [ ] Make the article background two-toned / dynamic background
+- [ ] Play around with fonts

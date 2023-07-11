@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bfae3698df76a52c",
+        "id": "1328e2a134823447",
         "type": "tabs",
         "children": [
           {
-            "id": "023f53e6a8d77870",
+            "id": "f398e9b5c0fedf38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/why-windows.md",
+                "file": "content/post/Interests in 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/why-windows.md",
+                "file": "content/post/Interests in 2023.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/why-windows.md",
+                "file": "content/post/Interests in 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/why-windows.md"
+                "file": "content/post/Interests in 2023.md"
               }
             }
           }
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "023f53e6a8d77870",
+  "active": "f398e9b5c0fedf38",
   "lastOpenFiles": [
+    "content/post/cool-quotes.md",
+    "College Planning.md",
     "content/post/theories-on-reality.md",
     "content/post/pillars-of-success.md",
     "content/post/content.md",
@@ -157,7 +158,6 @@
     "content/post/quitting-meat.md",
     "content/post/Interests in 2023.md",
     "content/post/fast-charging.md",
-    "content/post/cool-quotes.md",
     "content/post/browsers.md",
     "content/post/about-myself.md",
     "content/post/best-friend.md",
