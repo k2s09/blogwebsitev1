@@ -16,16 +16,16 @@ Each topic struck me at some point as an important thing to talk about, and is r
 I am excited to develop interesting ideas further, learn about them myself and share them here. Incase you don't want to wait for me, I've added a few links where you can learn more about them on your own :)
 
 ## I'm working on it
-1) *Tools for Thought:* Intelligent Note Taking at the Speed of Articulation
-- A discussion of the various 'tools for thought' apps, used for things like note-taking, personal knowledge management (PKM), graphed bidirectional idea linking, zetteltasken, etc.
-- These deliberations are also my efforts to craft a CS & Math Engineering Note Taking System for College
-- I recognise the most popular and upcoming apps and which ones shine in certain use-cases.
-- This essay is *long* and supposed to be one of my best pieces yet.
+1. *Tools for Thought:* Intelligent Note Taking at the Speed of Articulation
+   - A discussion of the various 'tools for thought' apps, used for things like note-taking, personal knowledge management (PKM), graphed bidirectional idea linking, zetteltasken, etc.
+   - These deliberations are also my efforts to craft a CS & Math Engineering Note Taking System for College
+   - I recognize the most popular and upcoming apps and which ones shine in certain use-cases.
+   - This essay is *long* and supposed to be one of my best pieces yet.
 
-2) *The Axiomatic Argument:* A Logical Tool for Evaluating Beliefs & Finding Meaning in Life
-* Another one of my dabbles in the fields of Rationality, Humanism, Cognitive Psychology, Philosophy 
-* The article starts off with great pragmatic interest: Introducing axiomatic arguments and using them to assess and develop our worldviews.
-* It then proceeds to discuss some of the philosophical challenges and opportunities that arise from moving away from religion as a source of meaning and morality, and how we can use reason to develop alternative frameworks that can inspire us to live well and flourish.
+2. *The Axiomatic Argument:* A Logical Tool for Evaluating Beliefs & Finding Meaning in Life
+   - Another one of my dabbles in the fields of Rationality, Humanism, Cognitive Psychology, Philosophy
+   - The article starts off with great pragmatic interest: Introducing axiomatic arguments and using them to assess and develop our worldviews.
+   - It then proceeds to discuss some of the philosophical challenges and opportunities that arise from moving away from religion as a source of meaning and morality, and how we can use reason to develop alternative frameworks that can inspire us to live well and flourish.
 
 ## On the back burner
 ### Personal
