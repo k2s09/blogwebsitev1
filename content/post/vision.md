@@ -19,10 +19,13 @@ Strong conclusions that align with my principles form the basis for my decision-
 
 I do this a lot. I hardly publish everything that I write.
 
-## TBD
-- [x] Add tags and the ability to sort articles based on tags
-- [x] Add HTML, iframes and look into Hugo plugins
-- [ ] Make the main heading scrolling
-- [ ] Revamp article image banner - make full size, add small description text
-- [ ] Add headings to the article scroll bar
-- [ ] Two-Toned / Dynamic Background
+## Website features in the making
+| Feature | Status |
+| ---- | ------ |
+| Add tags to articles and add the ability to filter by tags | ✅ |
+| Add HTML, iframes and look into Hugo plugins | ✅ |
+| Making the hero heading of the homepage vertical scrolling with text | ❌ |
+| Revamp article image banner - make full size, add a small description text | ❌ |
+| Add the article's outline headings on the scrollbar | ❌ |
+| Make the article background two-toned / dynamic background | ❌ |
+| Play around with fonts | ❌ |

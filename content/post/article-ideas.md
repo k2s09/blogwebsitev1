@@ -47,13 +47,3 @@ I am excited to develop interesting ideas further, learn about them myself and s
 * Learnings in Web Development (Some revelations by me in this field)
 * The Sheer Efficiency of Modern Computers
 * Experiences being an Executive in Technology
-
-## Website features in the making
-| Feature | Status |
-| ---- | ------ |
-| Add tags to articles and add the ability to filter by tags | ✅ |
-| Making the hero heading of the homepage vertical scrolling with text | ❌ |
-| Revamp article image banner - make full size, add a small description text | ❌ |
-| Add the article's outline headings on the scrollbar | ❌ |
-| Make the article background two-toned / dynamic background | ❌ |
-| Play around with fonts | ❌ |

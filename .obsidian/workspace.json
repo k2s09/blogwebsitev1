@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c13762da97d5da8e",
+        "id": "6549152381b7a377",
         "type": "tabs",
         "children": [
           {
-            "id": "4fc8f27bdc87eb47",
+            "id": "82634ddac8561d83",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,12 +139,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fc8f27bdc87eb47",
+  "active": "82634ddac8561d83",
   "lastOpenFiles": [
+    "content/post/vision.md",
+    "content/post/article-ideas.md",
     "content/post/path-of-moderation.md",
     "content/post/theories-on-reality.md",
     "content/post/a.md",
-    "content/post/vision.md",
     "content/post/why-windows.md",
     "content/post/pillars-of-success.md",
     "content/post/quitting-meat.md",
@@ -157,7 +158,6 @@
     "College Planning.md",
     "content/post/content.md",
     "layouts/shortcodes/iframe.html",
-    "content/post/article-ideas.md",
     "content/post/fast-charging.md",
     "content/post/browsers.md",
     "content/post/best-friend.md",
