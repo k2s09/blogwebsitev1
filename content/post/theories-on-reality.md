@@ -28,3 +28,5 @@ Different domains shape our understanding of causality. While some fields, such 
 Moreover, even when we have a lot of evidence to support our claims, our understanding of causality is always subject to a certain degree of uncertainty. There is always the possibility that new evidence will emerge that challenges or contradicts our previous assumptions. Therefore, our understanding of causality is never final or absolute, but provisional and revisable.
 
 There is this striking, haunting, humbling yet comforting realisation that we face limitations in understanding the mechanism of things. This does not imply that we are doomed or inactive, but rather that we have to adjust our expectations and attitudes to the reality we face. We still have some control over how we handle these determinants, and we can use our logic and practicality to guide our behaviour and choices. However, we should also be curious and flexible, and appreciate the diversity and ambiguity of reality. This can help us to cultivate a more refined and realistic perspective on reality, and manage it more successfully.
+
+_This article is an eternal work in progress._

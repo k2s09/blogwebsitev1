@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "388d3dc6f2ba4479",
+        "id": "76b95d779057c12a",
         "type": "tabs",
         "children": [
           {
-            "id": "d58d5c0e7f9dfdcc",
+            "id": "b9c9267851480fe0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,7 +139,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d58d5c0e7f9dfdcc",
+  "active": "b9c9267851480fe0",
   "lastOpenFiles": [
     "content/post/theories-on-reality.md",
     "content/post/path-of-moderation.md",
