@@ -16,7 +16,7 @@ I maintain an excellent software setup on my hardware. Let me show you!
 ### Specs
 **Redmi Note 11T 5G** - Mediatek 810U, 6GB LPDDR4, 128GB UFS 2.2, 6.67in IPS LCD, 90Hz
 ### OS
-Android 12, MIUI 13, DeBloated 
+Android 13, MIUI 14, DeBloated 
 ### Software
 * **Comms:** Whatsapp, Telegram, Discord, Instagram, Reddit, Zoom, Teams, Meet, ReVanced
 * **Regular:** Brave, Bitwarden, Authy, Office, Gmail, Adobe Scan, Notion, Microsoft Tasks, Google Keep, OneDrive, Canva, Amazon, Prime Video, GPay, Spotify, Uber, BlueCabs, Alarmy, Medium, Pocket, Wikipedia, stoic, Shazam
@@ -24,6 +24,7 @@ Android 12, MIUI 13, DeBloated
 ## Laptop
 ### Specs
 **HP Pavilion 14** - i5-1135G7, 16GB DDR4-3200MHz, 512GB NVME, Iris Xe + Nvidia GeForce MX450
+
 ### OS
 Windows 11 Professional, DeBloated
 

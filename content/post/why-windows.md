@@ -1,6 +1,6 @@
 ---
 title: Why Windows over Linux
-date: 2022-12-02
+date: 2023-07-15
 hero: /images/llugk8ad1ezx7ju4dq2p.webp
 excerpt: Why do I use Windows personally after being a Linux user for years? Perhaps, the grass isn't greener on the other side.
 timeToRead: 11
@@ -16,18 +16,18 @@ I am an experienced Linux user and a fan of open-source software. I've used ever
 ## The Windows Experience isn't bad
 I have never felt that Windows was a buggy and messy OS. Sure, there are plenty of examples of that online, but I have not experienced such. Windows is annoying at times, but not **that** buggy. Over time, I've mastered how to maintain a Windows installation perfectly, and have always had a wonderful experience with the OS.
 
-I've learned security etiquette to identify malicious software, PUPs, adware, and can steer cleer of them while keeping my installation clean and secure without the need for a third-party antivirus running active scans all the time. System apps don't crash on me. Big picture, you can fully utilise Microsoft's vast array of well-made first-party apps and an even bigger platform of power-user apps. I admit that I use many tools to Windows in check, to not be annoying, but with my setup on Windows, I do *enjoy* using my PC.
+I've learned security etiquette to identify malicious software, PUPs, adware, and can steer clear of them while keeping my installation clean and secure without the need for a third-party antivirus running active scans all the time. System apps don't crash on me. Big picture, you can fully utilise Microsoft's vast array of well-made first-party apps and an even bigger platform of power-user apps. I admit that I use many tools to Windows in check, to not be annoying, but with my setup on Windows, I do *enjoy* using my PC.
 
 Linux is a tool. I use it to augment and automate certain tasks. I enjoy using and fiddling with Linux, but I would want to use my PC instead of tinkering with it my spare time and move on with my personal life.
 
 ## Installation and Setup
 Objectively, I do not find Windows inferior in the process of installation and setup of software. Let's dissect my statement.
 
-First let's go over drivers. The *point* of using Windows is preferring the prioprietary software and drivers that are available over open source drivers on Linux. Most things are automatically downloaded from Windows Update, but you can get your component drivers from your device vendor, or individually from Intel, Nvidia, etc, and check for updates occasionally. It works. Now, on Linux, most people don't have to think about drivers *at all*. That is absolutely amazing. There is not much comparison on this point between the two unless you have some specific requirement. My point being __both of them work__.
+First let's go over drivers. The *point* of using Windows is preferring the proprietary software and drivers that are available over open source drivers on Linux. Most things are automatically downloaded from Windows Update, but you can get your component drivers from your device vendor, or individually from Intel, Nvidia, etc, and check for updates occasionally. It works. Now, on Linux, most people don't have to think about drivers *at all*. That is absolutely amazing. There is not much comparison on this point between the two unless you have some specific requirement. My point being __both of them work__.
 
 When it comes to apps, essentially, both systems are equal. On Linux, the cherished terminal is touted as a fast and straightforward way to install apps. I am a hardcore terminal user and don't shy away from it at all. However, on Windows, installing apps is better than people like to believe, and how it is perceived online. The Windows Store, Winget Package Manager and it's slew of GUI wrappers, and simply searching for apps on Google or Bing gives you access to an equal or greater set of apps to install, and they work *reliably*.Use Adblock when navigating the web to avoid scam websites and web elements, and verify downloads if seem suspicious. Use common sense and it's a highly functional system. On Linux, although it is nice to open your terminal and install popular apps in one command, it is not always that simple, with version, availability, and permission issues.
 
-The problem with Linux is needless redundancy. There are a lot of disparities in package managers and packaging formats, and one can easily run into version and availability issues. Having to package apps for an increasing list of distros is incredibly wasteful. The various app standards are repetitive and confusing for new users. In my experience, the correct wa yto navigate this web of standards to install apps is to use system-wide dependencies for most things and Flatpak for certain apps, but not everyone is clear about this, and at times, I *do* stumble across tar.gz, Snaps and AppImage as the only available formats for apps that may be non-negotiable for me. 
+The problem with Linux is needless redundancy. There are a lot of disparities in package managers and packaging formats, and one can easily run into version and availability issues. Having to package apps for an increasing list of distros is incredibly wasteful. The various app standards are repetitive and confusing for new users. In my experience, the correct way to navigate this web of standards to install apps is to use system-wide dependencies for most things and Flatpak for certain apps, but not everyone is clear about this, and at times, I *do* stumble across tar.gz, Snaps and AppImage as the only available formats for apps that may be non-negotiable for me. 
 
 You can just not care about these issues and install whatever you want, that leads to another issue, "dependency hell". So, it is not a perfect solution. What matters is _getting used to either workflow._
 

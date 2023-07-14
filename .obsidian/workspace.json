@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c918967cdabab0d",
+        "id": "388d3dc6f2ba4479",
         "type": "tabs",
         "children": [
           {
-            "id": "5aff2c8ea36b8293",
+            "id": "d58d5c0e7f9dfdcc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 217.5
   },
   "right": {
     "id": "7695df4a9a4a3902",
@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,18 +139,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5aff2c8ea36b8293",
+  "active": "d58d5c0e7f9dfdcc",
   "lastOpenFiles": [
+    "content/post/theories-on-reality.md",
+    "content/post/path-of-moderation.md",
+    "content/post/a.md",
+    "content/post/vision.md",
+    "content/post/why-windows.md",
+    "content/post/pillars-of-success.md",
+    "content/post/quitting-meat.md",
+    "content/post/taste-in-comedy.md",
+    "content/post/typing.md",
+    "content/post/tech-stack.md",
     "content/post/about-myself.md",
     "content/post/Interests in 2023.md",
     "content/post/cool-quotes.md",
     "College Planning.md",
-    "content/post/theories-on-reality.md",
-    "content/post/pillars-of-success.md",
     "content/post/content.md",
     "layouts/shortcodes/iframe.html",
     "content/post/article-ideas.md",
-    "content/post/quitting-meat.md",
     "content/post/fast-charging.md",
     "content/post/browsers.md",
     "content/post/best-friend.md",
@@ -157,13 +165,10 @@
     "static/images/bookshelf.webp",
     "content/post/consumerism.md",
     "Untitled.canvas",
-    "content/post/path-of-moderation.md",
     "MUN coaching classes with Dvit.md",
     "content/post/Media.md",
     "README.md",
     "static/images/physics.jpg",
-    "content/post/typing.md",
-    "content/post/vision.md",
     "images/physics.jpg",
     "static/physics.jpg",
     "static/images/Windows.webp",
@@ -171,9 +176,6 @@
     "static/images/snap1011.webp",
     "static/images/pillars.webp",
     "static/images/me.png",
-    "content/post/why-windows.md",
-    "content/post/tech-stack.md",
-    "content/post/taste-in-comedy.md",
     "content/post/purpose.md"
   ]
 }

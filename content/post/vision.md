@@ -1,6 +1,6 @@
 ---
 title: The Vision of this Blog
-date: 2023-04-24
+date: 2023-07-07
 hero: /images/thinking.jpg
 excerpt: What does this blog aim to accomplish?
 timeToRead: 2
@@ -21,6 +21,7 @@ I do this a lot. I hardly publish everything that I write.
 
 ## TBD
 - [x] Add tags and the ability to sort articles based on tags
+- [x] Add HTML, iframes and look into Hugo plugins
 - [ ] Make the main heading scrolling
 - [ ] Revamp article image banner - make full size, add small description text
 - [ ] Add headings to the article scroll bar
