@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76b95d779057c12a",
+        "id": "c13762da97d5da8e",
         "type": "tabs",
         "children": [
           {
-            "id": "b9c9267851480fe0",
+            "id": "4fc8f27bdc87eb47",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,10 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9c9267851480fe0",
+  "active": "4fc8f27bdc87eb47",
   "lastOpenFiles": [
-    "content/post/theories-on-reality.md",
     "content/post/path-of-moderation.md",
+    "content/post/theories-on-reality.md",
     "content/post/a.md",
     "content/post/vision.md",
     "content/post/why-windows.md",

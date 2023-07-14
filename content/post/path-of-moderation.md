@@ -13,7 +13,7 @@ Philosophy that people really follow is the one that they deeply think on and gr
 
 It is a chain of thought that I most wholeheartedly concur with. It is simple enough, but I like to use it in everything. Modern radical and extremist views might steer your mind to believe that being moderate is worse off than taking a side. Whether that is true or not is not something I can deduce, but join me as we explore the reality of the universe.
 
-Also, this will be an ever-ongoing essay. I will continue to expand this topic in moods of heightened sensitivity, ponderings, reveries and philosophy.
+Also, this will be an ever-ongoing essay. I will continue to expand this topic in moods of heightened creativity and meditations.
 
 Before I delve into the benefits of this philosophy of moderation, let me first clarify what I mean by moderation. Moderation is not simply the absence of extremes or the middle ground between two opposing views. Moderation is a deliberate and conscious choice to avoid excesses and deficiencies in any aspect of life. Moderation is a recognition of the limits and possibilities of human nature and the world we live in. Moderation is a respect for diversity and complexity, as well as a search for harmony and balance.
 
@@ -89,6 +89,6 @@ Instead, by being moderate, we become flexible and versatile. We can adjust our 
 
 By being moderate, we become strong and resilient. We can cope with challenges and difficulties without losing hope or motivation. We can overcome obstacles and setbacks without giving up or quitting. We can face uncertainties and risks without being afraid or anxious.
 
----
+<hr>
 
 I believe this philosophy sits well in the popular beliefs of stoicism. Thus, following such a path in life would be honorable and meaningful. I also believe that these traits are the hallmark of a strong individual, and would love to meet people sharing similar beliefs, or showing a passion in this stream of philosophy.
