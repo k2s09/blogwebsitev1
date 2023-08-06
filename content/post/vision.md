@@ -29,3 +29,4 @@ I do this a lot. I hardly publish everything that I write.
 | Add the article's outline headings on the scrollbar | ❌ |
 | Make the article background two-toned / dynamic background | ❌ |
 | Play around with fonts | ❌ |
+| Add some contact information | ❌ |\

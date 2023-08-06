@@ -1,8 +1,5 @@
 {
-  "spellcheckLanguages": [
-    "en-US",
-    "en-GB"
-  ],
+  "spellcheckLanguages": null,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
@@ -12,6 +9,16 @@
     "assets/",
     "layouts/",
     "config/",
-    "resources/"
-  ]
+    "resources/",
+    "assets/",
+    "resources/",
+    "layouts/"
+  ],
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

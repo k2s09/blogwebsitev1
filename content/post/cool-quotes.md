@@ -37,6 +37,8 @@ authors:
 
 *You don’t reach a state of mastery when you know everything. You reach it when you’ve absorbed the knowledge so deeply that it becomes a part of you.*
 
+*“We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of light” – Plato*
+
 ## Relationships
 
 *Ignore the hole, keep your eyes on the goal.*
@@ -116,3 +118,5 @@ authors:
 *“Failure is an event, giving up is a mindset.” - Winston Churchill*
 
 *“Doing things changes things. Not doing things leaves things exactly as they were. Take Raw Action” - Doctor House*
+
+“Care about the outcome, but focus on the process. When you concentrate on the journey, the destination takes care of itself.” – Anonymous
