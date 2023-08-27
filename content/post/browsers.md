@@ -9,6 +9,8 @@ authors:
   - Kavin Sood
 ---
 
+Sapru sir big fan
+
 With the growth of the internet and rise of web apps, the browser has become the most used application on any computer, and I needn’t explain the significance of the internet!
 
 Modern web browsers are bridging the gap between operating systems thanks to their incredible cross-platform capabilities. For instance, I have less problems using MacOS or Linux since I would mostly use Chrome.
