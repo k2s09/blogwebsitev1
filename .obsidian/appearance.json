@@ -3,10 +3,10 @@
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
   "monospaceFontFamily": "JetBrainsMono NF",
-  "translucency": false,
+  "translucency": true,
   "nativeMenus": true,
   "showViewHeader": true,
   "theme": "obsidian",
-  "baseFontSize": 16,
-  "cssTheme": "Minimal"
+  "baseFontSize": 18,
+  "cssTheme": ""
 }

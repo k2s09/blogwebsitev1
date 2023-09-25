@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "69524e25325ae67a",
+        "id": "c8600ee0f62deabd",
         "type": "tabs",
         "children": [
           {
-            "id": "9af5b5ce46f53a2b",
+            "id": "7950f20bb94508d0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/best-friend.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/best-friend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,8 +118,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ea077b64d8d1d17",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
               "state": {
-                "file": "content/post/best-friend.md"
+                "sortOrder": "frequency"
               }
             }
           }
@@ -130,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 212.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,45 +148,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17a3386941e19a0f",
+  "active": "7950f20bb94508d0",
   "lastOpenFiles": [
+    "content/post/about-myself.md",
+    "content/post/Biology Notes.md",
+    "content/post/article-ideas.md",
+    "content/post/best-friend.md",
+    "content/post/content.md",
+    "content/post/browsers.md",
     "content/post/consumerism.md",
+    "content/post/cool-quotes.md",
+    "content/post/fast-charging.md",
     "content/post/Interests in 2023.md",
+    "content/post/Hello World.md",
+    "content/post/path-of-moderation.md",
+    "content/post/pillars-of-success.md",
     "content/post/quitting-meat.md",
     "content/post/taste-in-comedy.md",
-    "content/post/path-of-moderation.md",
-    "content/post/why-windows.md",
-    "content/post/content.md",
-    "content/post/vision.md",
     "content/post/tech-stack.md",
-    "content/post/cool-quotes.md",
     "content/post/theories-on-reality.md",
-    "content/post/fast-charging.md",
+    "content/post/vision.md",
+    "content/post/why-windows.md",
+    "content/post/Tech Summit Genesis 3.0.md",
+    "content/_index.md",
+    "static/images/BFE - MODULE-01[1].pdf",
+    "static/images/be-your-own-best-friend.webp",
     "List of things I need for College.md",
     "List 1.md",
     "content/post/2023-08-02.md",
     "content/post/RIZZ COACH.md",
     "README.md",
-    "content/post/browsers.md",
-    "content/post/article-ideas.md",
-    "content/post/a.md",
-    "content/post/pillars-of-success.md",
-    "content/post/typing.md",
-    "content/post/about-myself.md",
-    "College Planning.md",
     "layouts/shortcodes/iframe.html",
-    "content/post/best-friend.md",
     "static/images/ideasbulb.webp",
     "static/images/bookshelf.webp",
     "Untitled.canvas",
-    "MUN coaching classes with Dvit.md",
     "static/images/physics.jpg",
     "images/physics.jpg",
     "static/physics.jpg",
     "static/images/Windows.webp",
     "static/images/thinking.jpg",
     "static/images/snap1011.webp",
-    "static/images/pillars.webp",
-    "static/images/me.png"
+    "static/images/pillars.webp"
   ]
 }
