@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c8600ee0f62deabd",
+        "id": "b261b8524a8d67fe",
         "type": "tabs",
         "children": [
           {
-            "id": "7950f20bb94508d0",
+            "id": "642113d0bbf64a6d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 268.5
   },
   "right": {
     "id": "7695df4a9a4a3902",
@@ -136,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 212.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +149,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7950f20bb94508d0",
+  "active": "17a3386941e19a0f",
   "lastOpenFiles": [
+    "content/post/Math.md",
+    "README.md",
     "content/post/about-myself.md",
     "content/post/Biology Notes.md",
     "content/post/article-ideas.md",
@@ -176,8 +179,6 @@
     "List of things I need for College.md",
     "List 1.md",
     "content/post/2023-08-02.md",
-    "content/post/RIZZ COACH.md",
-    "README.md",
     "layouts/shortcodes/iframe.html",
     "static/images/ideasbulb.webp",
     "static/images/bookshelf.webp",
