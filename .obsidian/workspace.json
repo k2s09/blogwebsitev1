@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b261b8524a8d67fe",
+        "id": "7222d80f1e37c8fc",
         "type": "tabs",
         "children": [
           {
-            "id": "642113d0bbf64a6d",
+            "id": "2d909956141043ea",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -136,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 212.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,36 +148,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17a3386941e19a0f",
+  "active": "2d909956141043ea",
   "lastOpenFiles": [
+    "content/post/about-myself.md",
+    "content/post/content.md",
+    "content/post/tech-stack.md",
+    "content/post/tech-stack.md",
+    "content/post/consumerism.md",
+    "content/post/cool-quotes.md",
+    "content/post/Interests in 2023.md",
+    "content/_index.md",
     "content/post/Math.md",
     "README.md",
-    "content/post/about-myself.md",
     "content/post/Biology Notes.md",
     "content/post/article-ideas.md",
     "content/post/best-friend.md",
-    "content/post/content.md",
     "content/post/browsers.md",
-    "content/post/consumerism.md",
-    "content/post/cool-quotes.md",
     "content/post/fast-charging.md",
-    "content/post/Interests in 2023.md",
     "content/post/Hello World.md",
     "content/post/path-of-moderation.md",
     "content/post/pillars-of-success.md",
     "content/post/quitting-meat.md",
     "content/post/taste-in-comedy.md",
-    "content/post/tech-stack.md",
     "content/post/theories-on-reality.md",
     "content/post/vision.md",
     "content/post/why-windows.md",
     "content/post/Tech Summit Genesis 3.0.md",
-    "content/_index.md",
     "static/images/BFE - MODULE-01[1].pdf",
     "static/images/be-your-own-best-friend.webp",
     "List of things I need for College.md",
     "List 1.md",
-    "content/post/2023-08-02.md",
     "layouts/shortcodes/iframe.html",
     "static/images/ideasbulb.webp",
     "static/images/bookshelf.webp",

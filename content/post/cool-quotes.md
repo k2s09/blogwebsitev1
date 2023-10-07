@@ -39,6 +39,7 @@ authors:
 
 *“We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of light” – Plato*
 
+*Chose your close groups wisely.*
 ## Relationships
 
 *Ignore the hole, keep your eyes on the goal.*
@@ -51,9 +52,15 @@ authors:
 
 *Thicc thighs save lives.*
 
-## Unironic Gigachad
+*Get Bitches not Backs.*
 
-*It was just a canon event.*
+## College / Career
+
+*Internalize the 3 Rs → Relevant, Resilient, Ready.*
+
+*Make the best use of your time. Only skip college if you are doing something more productive. Otherwise, your attendance should be 100%.*
+
+*To succeed like the 1%, you must do what the 1% does. Technical skills are hard and possessed by few.*
 
 ## Order, Discipline & Habits
 

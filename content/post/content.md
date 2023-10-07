@@ -11,6 +11,6 @@ authors:
 
 {{< rawhtml >}}
 
-<iframe src="https://v2-embednotion.com/6537ca323cb14a65a74afba8f539e12e?v=898d233b484c4843b092d1b7c6385afe&pvs=4"></iframe>  <style>  iframe { width: 100%; height: 500px; border: 2px solid #ccc; border-radius: 10px; padding: none; }  </style>
+<iframe src="https://v2-embednotion.com/ae0e7cf84f544a8fb113e5e3e5e575ac?v=05eedebce38c477eb93261be0d8d0d7b&pvs=4"></iframe>  <style>  iframe { width: 100%; height: 500px; border: 2px solid #ccc; border-radius: 10px; padding: none; }  </style>
 
 {{< /rawhtml >}}
