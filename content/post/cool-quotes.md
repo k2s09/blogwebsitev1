@@ -21,8 +21,6 @@ authors:
 
 *Train like you've never won and compete like you've never lost.* 
 
-*Always be a chad sigma male.*
-
 *Never leave your day one’s in the gutter.*
 
 *Obey the letter of the law, not the spirit.*
@@ -40,6 +38,12 @@ authors:
 *“We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of light” – Plato*
 
 *Chose your close groups wisely.*
+
+*No matter how losing your position is on the chess board of life, always make the best move.*
+
+*Worrying doesn’t take away tomorrow’s troubles, it takes away today’s peace.*
+
+*Truly strong people are kind.*
 ## Relationships
 
 *Ignore the hole, keep your eyes on the goal.*
@@ -52,7 +56,7 @@ authors:
 
 *Thicc thighs save lives.*
 
-*Get Bitches not Backs.*
+*Get bishes not backs.*
 
 ## College / Career
 

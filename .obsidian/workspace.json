@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7222d80f1e37c8fc",
+        "id": "e927e0cb4340bf3a",
         "type": "tabs",
         "children": [
           {
-            "id": "2d909956141043ea",
+            "id": "308e621cb5759d0f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,18 +148,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d909956141043ea",
+  "active": "308e621cb5759d0f",
   "lastOpenFiles": [
+    "content/post/cool-quotes.md",
+    "content/post/Skincare Routine.md",
+    "README.md",
     "content/post/about-myself.md",
     "content/post/content.md",
     "content/post/tech-stack.md",
     "content/post/tech-stack.md",
     "content/post/consumerism.md",
-    "content/post/cool-quotes.md",
     "content/post/Interests in 2023.md",
     "content/_index.md",
     "content/post/Math.md",
-    "README.md",
     "content/post/Biology Notes.md",
     "content/post/article-ideas.md",
     "content/post/best-friend.md",
@@ -177,7 +178,6 @@
     "static/images/BFE - MODULE-01[1].pdf",
     "static/images/be-your-own-best-friend.webp",
     "List of things I need for College.md",
-    "List 1.md",
     "layouts/shortcodes/iframe.html",
     "static/images/ideasbulb.webp",
     "static/images/bookshelf.webp",
