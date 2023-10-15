@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e927e0cb4340bf3a",
+        "id": "d3dd1b1584a7c9e0",
         "type": "tabs",
         "children": [
           {
-            "id": "308e621cb5759d0f",
+            "id": "72c28731c6e50564",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "308e621cb5759d0f",
+  "active": "72c28731c6e50564",
   "lastOpenFiles": [
     "content/post/cool-quotes.md",
     "content/post/Skincare Routine.md",

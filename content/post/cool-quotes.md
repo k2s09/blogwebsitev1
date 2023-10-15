@@ -66,6 +66,11 @@ authors:
 
 *To succeed like the 1%, you must do what the 1% does. Technical skills are hard and possessed by few.*
 
+*Chase excellence not success.*
+
+*Succeed in the classroom, but fail as much as you can outside of it.*
+
+"Embrace the alluring call of destiny; for in the pursuit of the known yet unseen, lies the sumptuous joy of fulfillment."
 ## Order, Discipline & Habits
 
 *“The first and greatest victory is to conquer self.” – Plato*
