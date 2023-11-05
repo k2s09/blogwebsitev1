@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d3dd1b1584a7c9e0",
+        "id": "3238b0b90ff2e02f",
         "type": "tabs",
         "children": [
           {
-            "id": "72c28731c6e50564",
+            "id": "ae491eb6ebe794b1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,8 +148,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72c28731c6e50564",
+  "active": "17a3386941e19a0f",
   "lastOpenFiles": [
+    "content/post/pillars-of-success.md",
+    "content/post/taste-in-comedy.md",
+    "content/post/article-ideas.md",
     "content/post/cool-quotes.md",
     "content/post/Skincare Routine.md",
     "README.md",
@@ -162,15 +165,12 @@
     "content/_index.md",
     "content/post/Math.md",
     "content/post/Biology Notes.md",
-    "content/post/article-ideas.md",
     "content/post/best-friend.md",
     "content/post/browsers.md",
     "content/post/fast-charging.md",
     "content/post/Hello World.md",
     "content/post/path-of-moderation.md",
-    "content/post/pillars-of-success.md",
     "content/post/quitting-meat.md",
-    "content/post/taste-in-comedy.md",
     "content/post/theories-on-reality.md",
     "content/post/vision.md",
     "content/post/why-windows.md",
