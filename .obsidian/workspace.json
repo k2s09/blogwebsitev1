@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3238b0b90ff2e02f",
+        "id": "e1fc990b28494ba6",
         "type": "tabs",
         "children": [
           {
-            "id": "ae491eb6ebe794b1",
+            "id": "49ee3a2115e3b369",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 200
   },
   "right": {
     "id": "7695df4a9a4a3902",
@@ -148,29 +148,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17a3386941e19a0f",
+  "active": "49ee3a2115e3b369",
   "lastOpenFiles": [
-    "content/post/pillars-of-success.md",
+    "content/post/tech-stack.md",
     "content/post/taste-in-comedy.md",
-    "content/post/article-ideas.md",
+    "content/post/Interests in 2023.md",
     "content/post/cool-quotes.md",
+    "content/post/quitting-meat.md",
+    "content/post/path-of-moderation.md",
+    "content/post/browsers.md",
+    "content/post/pillars-of-success.md",
+    "content/post/article-ideas.md",
     "content/post/Skincare Routine.md",
     "README.md",
     "content/post/about-myself.md",
     "content/post/content.md",
-    "content/post/tech-stack.md",
-    "content/post/tech-stack.md",
     "content/post/consumerism.md",
-    "content/post/Interests in 2023.md",
     "content/_index.md",
     "content/post/Math.md",
     "content/post/Biology Notes.md",
     "content/post/best-friend.md",
-    "content/post/browsers.md",
     "content/post/fast-charging.md",
     "content/post/Hello World.md",
-    "content/post/path-of-moderation.md",
-    "content/post/quitting-meat.md",
     "content/post/theories-on-reality.md",
     "content/post/vision.md",
     "content/post/why-windows.md",

@@ -5,15 +5,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "content/post",
   "attachmentFolderPath": "static/images",
-  "userIgnoreFilters": [
-    "assets/",
-    "layouts/",
-    "config/",
-    "resources/",
-    "assets/",
-    "resources/",
-    "layouts/"
-  ],
+  "userIgnoreFilters": null,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
