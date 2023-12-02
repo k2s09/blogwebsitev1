@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d18655d1afcbeed8",
+        "id": "2892b62661199688",
         "type": "tabs",
         "children": [
           {
-            "id": "dfd0aa5c59461dd5",
+            "id": "af4c1122ba5f7cec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/post/content.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 216.5
   },
   "right": {
     "id": "7695df4a9a4a3902",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/post/content.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/post/content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/post/content.md"
+              }
             }
           },
           {
@@ -148,32 +156,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfd0aa5c59461dd5",
+  "active": "af4c1122ba5f7cec",
   "lastOpenFiles": [
+    "content/post/cool-quotes.md",
+    "content/post/article-ideas.md",
     "content/post/tools for thought.md",
+    "content/post/tech-stack.md",
+    "content/post/quitting-meat.md",
+    "content/post/consumerism.md",
+    "content/post/path-of-moderation.md",
+    "content/post/best-friend.md",
+    "content/post/Interests in 2023.md",
+    "content/post/why-windows.md",
+    "content/post/browsers.md",
     "content/post/vision.md",
     "content/post/about-myself.md",
-    "content/post/article-ideas.md",
-    "content/post/tech-stack.md",
     "content/post/taste-in-comedy.md",
-    "content/post/Interests in 2023.md",
-    "content/post/cool-quotes.md",
-    "content/post/quitting-meat.md",
-    "content/post/path-of-moderation.md",
-    "content/post/browsers.md",
     "content/post/pillars-of-success.md",
     "content/post/Skincare Routine.md",
     "README.md",
     "content/post/content.md",
-    "content/post/consumerism.md",
     "content/_index.md",
     "content/post/Math.md",
     "content/post/Biology Notes.md",
-    "content/post/best-friend.md",
     "content/post/fast-charging.md",
     "content/post/Hello World.md",
     "content/post/theories-on-reality.md",
-    "content/post/why-windows.md",
     "content/post/Tech Summit Genesis 3.0.md",
     "static/images/BFE - MODULE-01[1].pdf",
     "static/images/be-your-own-best-friend.webp",

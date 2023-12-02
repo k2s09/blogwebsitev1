@@ -4,7 +4,7 @@
   "textFontFamily": "Inter",
   "monospaceFontFamily": "JetBrainsMono NF",
   "translucency": true,
-  "nativeMenus": true,
+  "nativeMenus": false,
   "showViewHeader": true,
   "theme": "obsidian",
   "baseFontSize": 16,
