@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2892b62661199688",
+        "id": "e90947244fd05654",
         "type": "tabs",
         "children": [
           {
-            "id": "af4c1122ba5f7cec",
+            "id": "69595f41e7615cf6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/content.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/content.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/post/content.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +148,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af4c1122ba5f7cec",
+  "active": "69595f41e7615cf6",
   "lastOpenFiles": [
+    "content/post/content.md",
     "content/post/cool-quotes.md",
     "content/post/article-ideas.md",
     "content/post/tools for thought.md",
@@ -175,7 +168,6 @@
     "content/post/pillars-of-success.md",
     "content/post/Skincare Routine.md",
     "README.md",
-    "content/post/content.md",
     "content/_index.md",
     "content/post/Math.md",
     "content/post/Biology Notes.md",
