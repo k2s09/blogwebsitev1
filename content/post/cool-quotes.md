@@ -1,6 +1,6 @@
 ---
 title: Cool Quotes 
-date: 2022-07-25
+date: 2022-12-05
 hero: /images/aristotle.webp
 excerpt: Some quotes to invigorate the soul.
 timeToRead: 4
@@ -44,6 +44,12 @@ authors:
 *Worrying doesn’t take away tomorrow’s troubles, it takes away today’s peace.*
 
 *Truly strong people are kind.*
+
+*Put the hard work in. Stay consistent. Trust your plan.*
+
+*The future belongs to the jacked nerds.*
+## Digital
+*don't check social media first thing in the morning, turn off notifications, curate your feed*
 ## Relationships
 
 *Ignore the hole, keep your eyes on the goal.*
@@ -57,7 +63,6 @@ authors:
 *Thicc thighs save lives.*
 
 *Get bishes not backs.*
-
 ## College / Career
 
 *Internalize the 3 Rs → Relevant, Resilient, Ready.*
@@ -70,7 +75,7 @@ authors:
 
 *Succeed in the classroom, but fail as much as you can outside of it.*
 
-"Embrace the alluring call of destiny; for in the pursuit of the known yet unseen, lies the sumptuous joy of fulfillment."
+*"Embrace the alluring call of destiny; for in the pursuit of the known yet unseen, lies the sumptuous joy of fulfillment."*
 ## Order, Discipline & Habits
 
 *“The first and greatest victory is to conquer self.” – Plato*

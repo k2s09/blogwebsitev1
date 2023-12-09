@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e90947244fd05654",
+        "id": "e4f3595553e36137",
         "type": "tabs",
         "children": [
           {
-            "id": "69595f41e7615cf6",
+            "id": "cc5ea7cfad456463",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/post/consumerism.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/post/consumerism.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/post/consumerism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/post/consumerism.md"
+              }
             }
           },
           {
@@ -148,10 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69595f41e7615cf6",
+  "active": "cc5ea7cfad456463",
   "lastOpenFiles": [
-    "content/post/content.md",
+    "content/post/IoT Lab.md",
     "content/post/cool-quotes.md",
+    "README.md",
+    "content/post/content.md",
     "content/post/article-ideas.md",
     "content/post/tools for thought.md",
     "content/post/tech-stack.md",
@@ -167,7 +177,6 @@
     "content/post/taste-in-comedy.md",
     "content/post/pillars-of-success.md",
     "content/post/Skincare Routine.md",
-    "README.md",
     "content/_index.md",
     "content/post/Math.md",
     "content/post/Biology Notes.md",
@@ -177,7 +186,6 @@
     "content/post/Tech Summit Genesis 3.0.md",
     "static/images/BFE - MODULE-01[1].pdf",
     "static/images/be-your-own-best-friend.webp",
-    "List of things I need for College.md",
     "layouts/shortcodes/iframe.html",
     "static/images/ideasbulb.webp",
     "static/images/bookshelf.webp",
