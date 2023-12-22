@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e4f3595553e36137",
+        "id": "60356f732d04ae37",
         "type": "tabs",
         "children": [
           {
-            "id": "cc5ea7cfad456463",
+            "id": "5005d9ccfd291d06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/consumerism.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/consumerism.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/consumerism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/post/consumerism.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,17 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc5ea7cfad456463",
+  "active": "5005d9ccfd291d06",
   "lastOpenFiles": [
+    "content/post/content.md",
+    "content/post/consumerism.md",
     "content/post/IoT Lab.md",
     "content/post/cool-quotes.md",
     "README.md",
-    "content/post/content.md",
     "content/post/article-ideas.md",
     "content/post/tools for thought.md",
     "content/post/tech-stack.md",
     "content/post/quitting-meat.md",
-    "content/post/consumerism.md",
     "content/post/path-of-moderation.md",
     "content/post/best-friend.md",
     "content/post/Interests in 2023.md",
