@@ -1,7 +1,7 @@
 ---
 title: Kavin Sood
 bio: |
-  17, Tech enthusiast, senior in high school interested in CS and STEM. Love playing basketball, Doom, Halo and listening to hip hop.
+  18, Tech enthusiast, senior in high school interested in CS and STEM. Love playing basketball, Doom, Halo and listening to hip hop.
 avatar: /images/me.png
 featured: true
 social:

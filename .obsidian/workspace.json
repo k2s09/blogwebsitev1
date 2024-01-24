@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/consumerism.md",
+                "file": "content/post/Biology End Term Exam.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/consumerism.md",
+                "file": "content/post/Biology End Term Exam.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/consumerism.md",
+                "file": "content/post/Biology End Term Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/consumerism.md"
+                "file": "content/post/Biology End Term Exam.md"
               }
             }
           },
@@ -135,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -158,6 +160,7 @@
   },
   "active": "cc5ea7cfad456463",
   "lastOpenFiles": [
+    "content/post/consumerism.md",
     "content/post/IoT Lab.md",
     "content/post/cool-quotes.md",
     "README.md",
@@ -166,7 +169,6 @@
     "content/post/tools for thought.md",
     "content/post/tech-stack.md",
     "content/post/quitting-meat.md",
-    "content/post/consumerism.md",
     "content/post/path-of-moderation.md",
     "content/post/best-friend.md",
     "content/post/Interests in 2023.md",
