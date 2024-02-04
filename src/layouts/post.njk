@@ -71,14 +71,15 @@ layout: base
             </p>
 
             <a
-                href="{{ author.social.mastodon.url }}"
-                target="_blank"
-                rel="noopener noreferrer"
-                title="Follow {{ author.name }} on Mastodon"
-                class="btn btn--mastodon"
-            >
-                {% icon "mastodon" %} Follow @{{ author.social.mastodon.name }}
-            </a>
+    href="{{ author.social.twitter.url }}"
+    target="_blank"
+    rel="noopener noreferrer"
+    title="Follow Kavin  on Twitter"
+    class="btn btn--twitter"
+>
+    {% icon "twitter" %} Follow @{{ author.social.twitter.name }}
+</a>
+
         {% endif %}
     </div>
     
