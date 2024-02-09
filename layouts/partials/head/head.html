@@ -1,0 +1,31 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="/images/favicon.svg">
+    {{ $style := resources.Get "scss/global.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    {{ $prism := resources.Get "css/prism.css" }}
+    <link rel="stylesheet" href="{{ $prism.RelPermalink }}" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital@0;1&display=swap" rel="stylesheet">
+    <link href="https://fonts.cdnfonts.com/css/noe-display?styles=20851,20852" rel="stylesheet">
+    {{ partial "seo/print.html" . }}
+    {{ with .Params.forestry_instant_preview_id }}
+      {{- safeHTML (printf "<meta property='forestry_instant_preview_id' content='%s'>" .) -}}
+    {{ end -}}
+    <script src="//instant.page/5.2.0" type="module" integrity="sha384-jnZyxPjiipYXnSU0ygqeac2q7CVYMbh84q0uHVRRxEtvFPiQYbXWUorga2aqZJ0z"></script>
+    <script data-goatcounter="https://2508.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+    <style>
+      @font-face {
+        font-family: Charter;
+        src: url('/fonts/XCharter-Roman.otf');
+        src: url('/fonts/XCharter-Italic.otf');
+      }
+    </style>
+    {{ $style := resources.Get "css/tags-bar.css" | resources.Fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+</head>
